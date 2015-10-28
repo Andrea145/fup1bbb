@@ -1,0 +1,160 @@
+#include<stdio.h>
+int N1;
+int N2;
+int N2;
+int N4;
+int N5;
+int N6;
+int N7;
+int N8;
+int N9;
+int N10;
+int main()
+{
+	printf("ingresar los 10 numeros\n");
+	scanf("%d",&N1);
+	scanf("%d",&N2);
+	scanf("%d",&N3);
+	scanf("%d",&N4);
+	scanf("%d",&N5);
+	scanf("%d",&N6);
+	scanf("%d",&N7;
+	scanf("%d",&N8);
+	scanf("%d",&N9?;
+	scanf("%d",&N10);
+	if(N1>=N2 && N1>=N3 && N1>=N4 && N1>=N5&& N1>=N6 && N1>=N7 && N1>=N8&& N1>=N9 && N1>=N10)
+	{
+		printf("el numero mayor es:%d\n",a);
+	}
+	else
+	{
+		if(N2>=N1 && N2>=N3 && N2>=N4 && N2>=N5 && N2>=N6 && N2>=N7&& N2>=N8 && N2>=N9 && N2>=N10)
+		{
+			printf("el numero mayor es:%d\n",b);
+		}
+		else
+		{
+			if(N3>=N1 && N3>=N2 && N3>=N4 && N3>=N5 && N3>=N6 && N3>=N7 && N3>=N8 && N3>=N9 && N3>=N10)
+			{
+				printf("el numero mayor es:%d\n",c);
+			}
+			else
+			{
+				if(N4>=N1 && N4>=N2 && N4>=N3 && N4>=N5 && N4>=N6 && N4>=N7 && N4>=N8 && N4>=N9 && N4>=N10)
+				{
+					printf("el  numero mayor es:%d\n",d);
+				}
+				else
+				{
+					if(N5>=N1 && N5>=N2 && N5>=N3 && N5>=N4& N5>=N6 && N5>=N7 && N4>=N8 && N4>=N9 && N4>=N10)
+					{
+						printf("el numero mayor es:%d\n",e);
+					}
+					else
+				    {
+					if(N6>=N1 && N6>=N2 && N6>=N3 && N6>=N4 && N6>=N5 && N6>=N7&& N6>=N8 && N6>=N9 && N6>=N10)
+					{
+						printf("el numero mayor es:%d\n",f);
+					}
+					else
+				    {
+					if(N7>=N1 && N7>=N2 && N7>=N3 && N7>=N4 && N7>=N5 && N7>=N6 && N7>=N8 && N7>=N9 && N6>=N10)
+					{
+						printf("el  numero mayor es:%d\n",g);
+					}
+					else
+				{
+					if(N8>=N1 && N8>=N2 && N8>=N3 && N8>=N4 && N8>=N5 && N8>=N6 && N8>=N7 && N8>=N9 && N8>=N10)
+					{
+						printf("el numero mayor es:%d\n",h);
+					}
+					else
+				{
+					if(N9>=N1 && N9>=N2 && N9>=N3 && N9>=N4 && N9>=N5 && N9>=N6&& N9>=N7 && N9>=N8 && N9>=N10)
+					{
+						printf("el numero mayor es:%d\n",i);
+					}
+					else
+				{
+					if(N10>=N1 && N10>=N2 && N10>=N3 && N10>=N4 && N10>=N5 && N10>=N6 && N10>=N7 && N10>=N8 && N10>=NN9)
+					{
+						printf("el numero mayor es:%d\n",j);
+					}
+				}
+			}
+		}
+	}
+}
+}
+}
+}
+}
+
+if(a<=b && a<=c && a<=d && a<=e && a<=f && a<=g && a<=h && a<=i && a<=j)
+	{
+		printf("el menor es:%d",a);
+	}
+	else
+	{
+		if(b<=a && b<=c && b<=d && b<=e && b<=f && b<=g && b<=h && b<=i && b<=j)
+		{
+			printf("el menor es:%d",b);
+		}
+		else
+		{
+			if(c<=a && c<=b && c<=d && c<=e && c<=f && c<=g && c<=h && c<=i && c<=j)
+			{
+				printf("el menor es:%d",c);
+			}
+			else
+			{
+				if(d<=a && d<=b && d<=c && d<=e && d<=f && d<=g && d<=h && d<=i && d<=j)
+				{
+					printf("el menor es:%d",d);
+				}
+				else
+				{
+					if(e<=a && e<=b && e<=c && e<=d && e<=f && e<=g && e<=h && e<=i && e<=j)
+					{
+						printf("el menor es:%d",e);
+					}
+					else
+				{
+					if(f<=a && f<=b && f<=c && f<=d && f<=e && f<=g && f<=h && f<=i && f<=j)
+					{
+						printf("el menor es:%d",f);
+					}
+					else
+				{
+					if(g<=a && g<=b && g<=c && g<=d && g<=f && g<=e && g<=h && g<=i && g<=j)
+					{
+						printf("el menor es:%d",g);
+					}
+					else
+				{
+					if(h<=a && h<=b && h<=c && h<=d && h<=f && h<=e && h<=g && h<=i && h<=j)
+					{
+						printf("el menor es:%d",h);
+					}
+					else
+				{
+					if(i<=a && i<=b && i<=c && i<=d && i<=f && i<=e && i<=g && i<=h && i<=j)
+					{
+						printf("el menor es:%d",i);
+					}
+					else
+				{
+					if(j<=a && j<=b && j<=c && j<=d && j<=f && j<=e && j<=h && j<=g && j<=i)
+					{
+						printf("el menor es:%d",j);
+					}
+			}
+			}
+		}
+	}
+}
+}
+}
+}
+}
+}
